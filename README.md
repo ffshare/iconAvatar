@@ -1,7 +1,7 @@
 # iconAvatar
 
 #### 介绍
-这是一个提供免费头像图标的软件，主要用于存放图标。 This is a free avatar icon software。
+这是一个提供免费头像图标的软件，主要用于存放图标，头像图标访问。 This is a free avatar icon software。
 当然如果把图片采用样式的方式引入就更好了，比如iconfont方式，使用一定要简单/轻便，越简单越好。
 
 #### 软件架构
