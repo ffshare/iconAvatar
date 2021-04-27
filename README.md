@@ -5,18 +5,23 @@
 当然如果把图片采用样式的方式引入就更好了，比如iconfont方式，使用一定要简单/轻便，越简单越好。
 
 #### 软件架构
-html
-js
-css
-
-
-#### 安装教程
+html  
+js  
+css  
 
 
 #### 使用说明
-images\repo\ 目录主要用于存放图片
-images\repo\p 主要存放个性化图片
-images\repo\s 主要存放简单图片
+1. 目录说明
 
+```
+images\repo\ 目录主要用于存放图片  
+images\repo\p 主要存放个性化图片  
+images\repo\s 主要存放简单图片  
 
+2. 图片预览
 
+```
+比如选择一张图片访问：/repo/p/0.jpg  
+iconAvatar图标地址， (https://cdn.jsdelivr.net/gh/ffshare/iconAvatar@0.0.1/images/repo/p/0.jpg)  
+
+```
